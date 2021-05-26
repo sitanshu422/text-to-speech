@@ -3,3 +3,5 @@
 # Installation
 * pip install gtts
 * pip install playsound
+#
+gtts is a very easy to use tool which converts the text enterd into audio
